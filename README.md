@@ -12,7 +12,8 @@
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-
+<br />
+<br />
 
 [![Olga Dovzhenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dovzhenko-olga&show_icons=true&theme=tokyonight)](https://github.com/Dovzhenko-olga/github-readme-stats)
 
