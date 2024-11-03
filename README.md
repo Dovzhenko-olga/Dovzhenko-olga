@@ -25,7 +25,7 @@
 
 [![Teslenko telegram](https://img.shields.io/badge/Telegram-%40Dovzhenko-blue?style=plastic&logo=telegram&link=https://t.me/Olya_Businka)](https://t.me/Olya_Businka)
 [![kalita.sun1982@gmail.com e-mail](https://img.shields.io/badge/Gmail-Dovzhenko_Olya-red?style=plastic&logo=gmail&link=mailto:kalita.sun1982@gmail.com)](mailto:kalita.sun1982@gmail.com) 
-[![Olga Teslenko Linkedin](https://img.shields.io/badge/Linkedin-Dovzhenko_Olya-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/olga-dovzhenko-34320b82/)](https://www.linkedin.com/in/olga-dovzhenko-34320b82/)
+[![Olga Teslenko Linkedin](https://img.shields.io/badge/Linkedin-Dovzhenko_Olya-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/olga-teslenko-34320b82/)](https://www.linkedin.com/in/olga-teslenko-34320b82/)
 
 <!--
 **Dovzhenko-olga/Dovzhenko-olga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
